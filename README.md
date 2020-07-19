@@ -12,7 +12,7 @@
 
 <p align="center">
   <a >
-    <img src="https://imgur.com/8pm2Qxh"
+    <img src="https://i.imgur.com/8pm2Qxh.jpg"
          alt="Screenshot">
   </a>
 </p>
