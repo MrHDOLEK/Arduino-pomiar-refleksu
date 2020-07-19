@@ -33,12 +33,12 @@
 
 
 ## Installation 💾
-#wersja dla 1 gracza
-#led załączany stanem niskim                             czyli +5V - rezystor 330 Ohm - led - port Uno
-#naciśnięcie przycisku podaje 0 czyli LOW (masę) na port Arduino   czyli +5V - rezystor 10 kOhm - port Uno i 1 styk przycisku 2 styk przycisku - masa
-#do pomiaru czasu w milisekundach używamy millis(), a dla pomiaru w mikrosekundach możemy użyć micros()
-#Po złożeniu zainstaluj na linuxa pakiet z pythonem i pakiet apache.
-#Po instalcji nadaj uprawnienia pliki z roższerzeniem .py najlepiej (chmod 777)
-#Ciesz się grą.
+ wersja dla 1 gracza <br />
+ led załączany stanem niskim                             czyli +5V - rezystor 330 Ohm - led - port Uno <br />
+ naciśnięcie przycisku podaje 0 czyli LOW (masę) na port Arduino   czyli +5V - rezystor 10 kOhm - port Uno i 1 styk przycisku 2 styk przycisku - masa <br />
+ do pomiaru czasu w milisekundach używamy millis(), a dla pomiaru w mikrosekundach możemy użyć micros() <br />
+ Po złożeniu zainstaluj na linuxa pakiet z pythonem i pakiet apache. <br />
+ Po instalcji nadaj uprawnienia pliki z roższerzeniem .py najlepiej (chmod 777) <br />
+ Ciesz się grą.
 
 
